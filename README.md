@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 
 🔭 目前除以大三实习期，找工作
+
 🌱 学习到头秃
+
 👯 又菜又爱玩
+
 🤔 希望我能越来越好
+
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=jjpaifyh&show_icons=true&theme=radical) 

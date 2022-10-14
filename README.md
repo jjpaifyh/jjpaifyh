@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 目前除以大三实习期，找工作
+🔭 目前除以大四实习期
 
 🌱 学习到头秃
 
